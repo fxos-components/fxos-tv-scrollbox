@@ -1,7 +1,7 @@
 {
   "name": "smart-scrollbox",
   "version": "0.0.0",
-  "homepage": "https://github.com/smart-components/smart-scrollbox",
+  "homepage": "https://github.com/gaia-components/smart-scrollbox",
   "main": "script.js",
   "license": "MPL",
   "ignore": [
@@ -16,5 +16,8 @@
   ],
   "dependencies": {
     "tv_shared": "smart-components/tv_shared"
+  },
+  "devDependencies": {
+    "smart-button": "gaia-components/smart-button"
   }
 }
