@@ -1,6 +1,6 @@
 /* global SpatialNavigator */
 
-window.SmartScrollbox = (function(exports) {
+window.FxosTvScrollbox = (function(exports) {
   'use strict';
 
   var proto = Object.create(HTMLElement.prototype);
@@ -328,6 +328,6 @@ window.SmartScrollbox = (function(exports) {
       <content></content>
     </div>`;
 
-  return document.registerElement('smart-scrollbox', { prototype: proto });
+  return document.registerElement('fxos-tv-scrollbox', { prototype: proto });
 })(window);
 

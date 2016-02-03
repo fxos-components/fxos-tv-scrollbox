@@ -1,5 +1,5 @@
 ## Installation
 
 ```bash
-$ bower install smart-components/smart-scrollbox
+$ bower install fxos-components/fxos-tv-scrollbox
 ```
