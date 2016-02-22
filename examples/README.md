@@ -1,8 +1,8 @@
 ## Run examples
 
-We use smart-button in our example. Please run the following command to install
-smart button.
+We use fxos-tv-button in our example. Please run the following command to install
+fxos-tv-button.
 
 ```bash
-$ bower install smart-components/smart-button
+$ bower install fxos-components/fxos-tv-button
 ```

@@ -1,7 +1,7 @@
 {
-  "name": "smart-scrollbox",
+  "name": "fxos-tv-scrollbox",
   "version": "0.0.0",
-  "homepage": "https://github.com/smart-components/smart-scrollbox",
+  "homepage": "https://github.com/fxos-components/fxos-tv-scrollbox",
   "main": "script.js",
   "license": "MPL",
   "ignore": [
@@ -15,6 +15,6 @@
     "README.md"
   ],
   "dependencies": {
-    "tv_shared": "smart-components/tv_shared"
+    "tv_shared": "fxos-components/tv_shared"
   }
 }
