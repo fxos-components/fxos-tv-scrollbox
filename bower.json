@@ -1,6 +1,6 @@
 {
   "name": "fxos-tv-scrollbox",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/fxos-components/fxos-tv-scrollbox",
   "main": "script.js",
   "license": "MPL",
